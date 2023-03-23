@@ -1,0 +1,4 @@
+git:
+  - git@github.com:wacpkg/_.git
+  - git@github.com:wacpkg/user.git
+
