@@ -11,8 +11,8 @@ dependencies:
     specifier: ^0.0.1
     version: 0.0.1
   '@w5/yml':
-    specifier: ^0.0.1
-    version: 0.0.1
+    specifier: ^0.0.2
+    version: 0.0.2
   zx:
     specifier: ^7.2.2
     version: 7.2.2
@@ -114,8 +114,8 @@ packages:
     resolution: {integrity: sha512-VyQXX2C3yRqfS7D5B+yCcsR1tvzZ1DzPLi5kugBOe/EeL+LOD3ftFamfik7wQr2TG7XQ7VF0snUpqVLaytwfOA==}
     dev: false
 
-  /@w5/yml@0.0.1:
-    resolution: {integrity: sha512-ePfJiLsEkP3QZoGACXXQREcHwXBKxzuW5AbLWA8nufC+dtjbE6g/EmLCriz1UrcORLTlp8v0WIa8zj1a6cGnpQ==}
+  /@w5/yml@0.0.2:
+    resolution: {integrity: sha512-dNaHMzGCqkiIy+gxWu5HiABVJNwoNW4jwExbVMh5ES+iruiSHPcs2a2dzgDWMPQJCvUTwNd5VBrMSk8eU2uaXw==}
     dependencies:
       '@w5/read': 0.0.1
       '@w5/write': 0.0.1
